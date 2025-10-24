@@ -1,0 +1,5 @@
+{
+  "name": "Ideas",
+  "description": "A web application to discover, share, and manage high-quality ideas and prompts for various development platforms. Users can browse, favorite, and submit prompts, while an admin panel allows for moderation and review.",
+  "requestFramePermissions": []
+}
